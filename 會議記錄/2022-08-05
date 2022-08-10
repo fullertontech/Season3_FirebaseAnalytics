@@ -1,0 +1,5 @@
+1. 如意卡串接實作(React)
+2. 了解未送出請求/GA沒收到紀錄的原因（Debug mode）
+    (1)Brave瀏覽器會擋
+    (2)Vpn有可能導致傳送失敗
+3. 關掉伺服器重新啟動後，Debug mode中會出現超過一個Device
